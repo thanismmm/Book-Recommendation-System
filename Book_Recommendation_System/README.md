@@ -55,4 +55,3 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
-here is a demo,
